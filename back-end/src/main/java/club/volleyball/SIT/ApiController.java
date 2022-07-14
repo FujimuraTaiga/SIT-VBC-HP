@@ -1,4 +1,4 @@
-package club.volleyball.sit;
+package club.volleyball.SIT;
 
 import org.springframework.web.bind.annotation.*;
 

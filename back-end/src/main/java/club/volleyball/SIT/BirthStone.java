@@ -1,4 +1,4 @@
-package club.volleyball.sit;
+package club.volleyball.SIT;
 
 import java.io.Serializable;
 
